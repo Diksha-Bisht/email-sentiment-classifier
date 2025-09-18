@@ -41,7 +41,6 @@ To run the application, execute the following command:
 streamlit run src/app.py
 ```
 
-Open your web browser and go to `http://localhost:8501` to access the application.
 
 ## Contributing
 
